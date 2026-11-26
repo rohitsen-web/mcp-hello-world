@@ -41,3 +41,5 @@ This opens a browser UI where you can call the `say_hello` tool interactively.
 > Note: MCP servers can also expose resources and prompts, not just tools.
 
 ## Updated via Kong + Zuma RDPS - Write Blocked Test
+
+## Updated by Kong + Zuma RDPS governance - 2025-07-14
