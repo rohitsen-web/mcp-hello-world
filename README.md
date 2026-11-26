@@ -39,3 +39,5 @@ This opens a browser UI where you can call the `say_hello` tool interactively.
 > Tip: You can extend this server by adding more `@mcp.tool()` decorated functions.
 
 > Note: MCP servers can also expose resources and prompts, not just tools.
+
+## Updated via Kong + Zuma RDPS - Write Blocked Test
