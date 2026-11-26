@@ -35,3 +35,7 @@ This opens a browser UI where you can call the `say_hello` tool interactively.
 ## Updated via Kong + Zuma RDPS - With Policy Active
 
 ## Addd lines as part of Kong RDPS Testing
+
+> Tip: You can extend this server by adding more `@mcp.tool()` decorated functions.
+
+> Note: MCP servers can also expose resources and prompts, not just tools.
