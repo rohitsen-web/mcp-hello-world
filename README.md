@@ -29,3 +29,5 @@ This opens a browser UI where you can call the `say_hello` tool interactively.
 - `FastMCP` creates an MCP server
 - `@mcp.tool()` exposes a Python function as a tool an LLM can call
 - The server communicates over stdio (default), which is how most MCP clients connect
+
+## Updated via Kong + Zuma RDPS
