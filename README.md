@@ -31,3 +31,5 @@ This opens a browser UI where you can call the `say_hello` tool interactively.
 - The server communicates over stdio (default), which is how most MCP clients connect
 
 ## Updated via Kong + Zuma RDPS
+
+## Updated via Kong + Zuma RDPS - With Policy Active
